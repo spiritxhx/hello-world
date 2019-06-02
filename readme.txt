@@ -1,1 +1,1 @@
-exercise of git-it
+1st exercise of git-it  
